@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environnement virtuel
+.venv/
+venv/
+
+# Logs générés
+logs/
+*.log
+
+# Fichiers générés
+output/
+*.sqlite3
+*.db
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
